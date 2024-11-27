@@ -1,4 +1,4 @@
-# Addition of 10 numbers
+
 
 total = 0
 
