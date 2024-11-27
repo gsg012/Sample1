@@ -1,1 +1,3 @@
-print("Welcom to pvg")
+total = 0
+print("Enter 10 numbers:")
+
